@@ -1,0 +1,12 @@
+.emoji-button {
+  background-color: #ffffff33;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  margin: 8px;
+  border: solid 3px #ffffff30;
+}

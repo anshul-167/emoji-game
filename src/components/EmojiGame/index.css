@@ -1,0 +1,30 @@
+.main-bg {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  height: 100vh;
+  font-family: Roboto;
+}
+.emoji-cont {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  list-style-type: none;
+}
+
+.result-cont {
+  display: none;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.bottom-cont {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+.hide-cont {
+  display: none;
+}
+.show-cont {
+  display: flex;
+}

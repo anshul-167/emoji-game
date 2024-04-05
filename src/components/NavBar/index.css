@@ -1,0 +1,27 @@
+navbar {
+  background-color: #ffffff33;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.navbar-logo-cont {
+  display: flex;
+  align-items: center;
+}
+.navbar-img {
+  height: 25px;
+  margin-right: 10px;
+}
+.score {
+  color: #ffffff;
+  font-weight: bold;
+  margin-right: 15px;
+  font-size: 20px;
+}
+.navbar-score-cont {
+  display: flex;
+  align-items: center;
+}
